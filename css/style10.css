@@ -1,0 +1,58 @@
+.view-tenth img {
+   
+   transition: all 0s ease-in-out;
+   
+}
+.view-tenth .mask {
+   background-color:#FFBC00;
+   opacity:1;
+   
+   transition: all 1.5s linear;
+
+  
+}
+.view-tenth h2 {
+   border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+   background: transparent;
+   margin: 20px 40px 0px 40px;
+   
+
+   color: #333;
+   
+   transition: all 0.5s linear;
+  
+   opacity: 1;
+}
+.view-tenth p {
+   color: #333;
+   
+   opacity: 1;
+   
+
+   
+   transition: all 0.5s linear;
+}
+.view-tenth a.info {
+ 
+   opacity: 1;
+   
+
+  
+   transition: all 0.5s linear;
+}
+.view-tenth:hover p {
+   
+   transform: scale(10);
+   
+   opacity: 0;
+}
+.view-tenth:hover .mask {
+  
+   opacity: 0;
+}
+.view-tenth:hover img {
+   
+   
+   opacity: 1;
+}
+				

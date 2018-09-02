@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if IE 9]>
+<html class="ie9" lang="en">    <![endif]-->
+<!--[if IE 8]>
+<html class="ie8" lang="en">    <![endif]-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <title>Qaisar Khan</title>|<title>Qaisar Khan</title>
+
+    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
+    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
+    <meta name="author" content="neuethemes">
+
+    <!-- Preloader -->
+    <link href="assets/custom/2.2.0/css/preloader.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" media="screen">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/flaticons/flaticon.min.css?v=29022016" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/hover/css/hover-min.css?v=2.0.2" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/mfp/css/magnific-popup.min.css?v=1.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/owl-carousel/assets/owl.carousel.min.css?v=2.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <!-- Custom styles -->
+    <link href="assets/custom/2.2.0/css/style.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/custom/2.2.0/css/layouts/samuel.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/custom/2.2.0/css/colors/default.css" id="color-styles" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <style>
+
+    </style>
+</head>
+
+<body id="samuel" class="boxed">
+
+    <!--Pre-Loader-->
+    <!--<div id="preloader"></div>-->
+
+    <header>
+        <section id="top-navigation" class="container-fluid nopadding">
+            <div class="row nopadding ident ui-bg-color01">
+                <!-- Photo -->
+                <a href="index.html">
+                    <div class="col-md-4 vc-photo photo-01">&nbsp;</div>
+                </a>
+                <!-- /Photo -->
+                <div class="col-md-8 vc-name nopadding">
+                    <!-- Name-Position -->
+                    <div class="row nopadding name">
+                        <div class="col-md-10 name-title">
+                            <h1 class="font-accident-two-extralight">Qaisar khan</h1>
+                        </div>
+                        <div class="col-md-2 nopadding name-pdf">
+                            <a href="#" class="hvr-sweep-to-right"><i class="flaticon-download149" title="Download CV.pdf"></i></a>
+                        </div>
+                    </div>
+                    <div class="row nopadding position">
+                        <div class="col-md-10 position-title">
+
+                            <section class="cd-intro">
+                                <h2 class="cd-headline clip is-full-width font-accident-two-light">
+                                    <span>The experienced </span>
+                                    <span class="cd-words-wrapper">
+                           <b class="is-visible">UI/UX Designer</b>
+                           <b>Web Designer</b>
+                           <b>Photographer</b>
+                        </span>
+                                </h2>
+                            </section>
+
+                        </div>
+                        <div class="col-md-2 nopadding pdf">
+                            <a href="#" class="hvr-sweep-to-right"><i class="flaticon-behance7" title="My Behance Portfolio"></i></a>
+                        </div>
+                    </div>
+                    <!-- /Name-Position -->
+
+                    <!-- Main Navigation -->
+
+                    <ul id="nav" class="row nopadding cd-side-navigation">
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color01" data-animation-duration="1000" data-animation-delay="100">
+                            <a href="index.html" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color02" data-animation-duration="1000" data-animation-delay="300">
+                            <a href="resume.html" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color03" data-animation-duration="1000" data-animation-delay="500">
+                            <a href="portfolio-4-col.html" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>portfolio</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color04" data-animation-duration="1000" data-animation-delay="700">
+                            <a href="contacts.html" class="hvr-sweep-to-bottom"><i class="flaticon-placeholders4"></i><span>contacts</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color05" data-animation-duration="1000" data-animation-delay="900">
+                            <a href="feedback.html" class="hvr-sweep-to-bottom"><i class="flaticon-earphones18"></i><span>feedback</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color06" data-animation-duration="1000" data-animation-delay="1100">
+                            <a href="blog-3-col.html" class="hvr-sweep-to-bottom"><i class="flaticon-pens15"></i><span>blog</span></a>
+                        </li>
+                    </ul>
+
+                    <!-- /Main Navigation -->
+
+                </div>
+            </div>
+        </section>
+    </header>
+
+    <!-- Container -->
+    <div class="content-wrap">
+
+        <div id="portfolio-item-page" class="inner-content">
+            <section class="inner-section">
+
+                <div class="post-header" data-animation-origin="right" data-animation-duration="400" data-animation-delay="100" data-animation-distance="50px">
+                    <h2 class="font-accident-two-normal">Commission Processing System</h2>
+
+                    <div class="dividewhite1"></div>
+                </div>
+                <div class="dividewhite4"></div>
+                <div class="row">
+                    <div class="col-md-5" data-animation-origin="top" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+
+                        <div class="row">
+                            <div class="col-md-12 col-sm-6 col-xs-12">
+                                <a href="images/1_0.png" target="new">
+                                    <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/1_0.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <div class="dividewhite2"></div>
+                            </div>
+                            <div class="col-md-12 col-sm-6 col-xs-12">
+                                <a href="images/1_0_1.png" target="new">
+                                    <img src="assets/custom/2.2.0/images/layouts/samuel/portfolio/4-columns/1_0_1.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="dividewhite6"></div>
+
+                    </div>
+                    <div id="portfolio-overview" class="col-md-6 col-md-offset-1" data-animation-origin="top" data-animation-duration="400" data-animation-delay="600" data-animation-distance="50px">
+
+                        <div class="dividewhite2"></div>
+                        <!-- Post Content -->
+                        <h3 class="font-accident-two-light">Project Data</h3>
+                        <div class="dividewhite4"></div>
+
+
+                        <div class="portfolio-item-details table">
+                            <div class="row table-row">
+                                <div class="table-cell">Date:</div>
+                                <div class="table-cell"><span style="font-family:Garamond;"> <a href="!#">May 05, 2017</a></span></div>
+                            </div>
+                            <div class="row table-row">
+                                <div class="table-cell">Categories:</div>
+                                <div class="table-cell"><span style="font-family:Garamond;"> <a href="!#" rel="tag">Accounts web portal</a></span></div>
+                            </div>
+                            <div class="row table-row">
+                                <div class="table-cell">Tags:</div>
+                                <div class="table-cell"><span style="font-family:Garamond;"> <a href="!#" rel="tag">website</a>, <a href="#" rel="tag">product</a>, <a href="#" rel="tag">accounting</a></span></div>
+                            </div>
+                            <div class="row table-row">
+                                <div class="table-cell">Author:</div>
+                                <div class="table-cell"><span style="font-family:Garamond;"> <a href="!#">Qaisar Khan</a></span></div>
+                            </div>
+                            <div class="row table-row">
+                                <div class="table-cell">Client:</div>
+                                <div class="table-cell"><span style="font-family:Garamond;"> <a href="!#">Finsure finance and insurance</a></span></div>
+                            </div>
+                        </div>
+
+
+                        <div class="dividewhite4 "></div>
+                        <h3>Project Overview</h3>
+                        <br>
+                        <p class="font-accident-two-normal " style="color:grey; word-spacing:5px; font-family:Garamond; font-size:1.3em;">
+                            <span style="font-size:38px;">F</span>or any multiple broker dealing organization or broker aggregator,
+                            <br/>commission processing is a tough and cumbersome task to handle.
+                            <br/> Gone are the days when brokerage commissions were to be divided
+                            <br/> between a handful of brokers. Now, companies manage tens and
+                            <br/> hundreds of brokers each with unique profile and commission rates
+                            <br/> and it is getting increasingly difficult to keep track of and disburse
+                            <br/> payments to brokers quickly and efficiently and that’s when
+                            <br/> technology and automated commission processing systems come to
+                            <br/> the rescue of the firms. Processing commissions of hundreds of
+                            <br/> brokers daily or evenweekly is a headache because huge risks of
+                            <br/> human error are involved in manual commission processes.
+                            <br/>
+                            <br/> This leads to the loss of precious time and money for both brokers
+                            <br/> and their companies whereas commission processing automation
+                            <br/> relieves firms of such wastages and streamlines processing, holding
+                            <br/> or distributing processes and that saved time and money can be
+                            <br/> invested on organizational growth and making employees more
+                            <br/> productive at work. With powerful tool and features that come with
+                            <br/> the automated transaction processing system, companies can easily
+                            <br/> distribute commissions between brokers in a matter of minutes, that
+                            <br/> if manually done could consume days if not weeks. Keeping the needs
+                            <br/> of modern brokerage firm in mind, this state of the art commission
+                            <br/> processing system is developed that enables the brokerage firms to
+                            <br/>enter, store, analyze and automate commission payments to their
+                            <br/> brokers. Its rich set of features and high configurability makes is ideal
+                            <br/> for any brokerage model and organizations don’t have to spend a
+                            <br/> fortune to readjust or redesign their existing infrastructure and
+                            <br/> commission processing procedures to adapt to the new system.
+
+                            <br/>
+                            <br/> The transaction processing system ensures productivity and growth by
+                            <br/> handling complex recipient hierarchies efficiently and by enabling
+                            <br/> administrator to control exactly the way commissions are paid to
+                            <br/> brokers. It can also generate standard ABA files and pay recipients via
+                            <br/> banking software. Error free invoicing and payment is extremely
+                            <br/> important for any broker and errors in accounting and invoicing can
+                            <br/> set the company back by thousands of dollars so precision invoicing
+                            <br/> is also a big concern for the companies. The transaction processing
+                            <br/> system relieves this headache by automating the invoice generation
+                            <br/> process. Any number of unique invoices can be generated accurately
+                            <br/> and transmitted safely and the recipients are paid what was due to them.
+                            <br/> With this system the administrators don’t need to search again and
+                            <br/> again for transaction receipts they want to look up because the system
+                            <br/> automatically stores all transaction data and any receipt can be
+                            <br/> brought up just by entering a query. It not only helps in automating
+                            <br/> commission process but also helps companies grow their sales and
+                            <br/> business by providing in depth analysis thanks to its high level of
+                            <br/> integration capabilities with Business Intelligence software and Data
+                            <br/> Warehouses.
+                            <br/><br/> The system also ensures high level of data integrity by applying multiple data quality rules, efficiently resolving any exceptions that might occur and reconciling commission data against bank accounts
+                            <br/> and managing suspense transactions. In short, it is the complete compensation management solution for brokerage enterprises and
+                            <br/> can save companies millions of dollars that can be invested in
+                            <br/> other areas hence enabling them for unprecedented growth
+                            <br/> and enabling productive process flows.
+
+                        </p>
+                        <p class="font-accident-two-normal " style="color:grey; word-spacing:5px; font-family:Garamond; font-size:1.18em;">
+                            It is a long established fact that a reader will be distracted by the readable
+                            <br/> content of a page when looking at its layout. The point of using Lorem
+                            <br/> Ipsum is that it has a more-or-less normal distribution of letters, as opposed
+                            <br/> to using 'Content here, content here', making it look like readable English.
+                        </p>
+                        <br/>
+                        <hr>
+                        <br/>
+                        <h3>Key Features</h3>
+                        <br/>
+                        <p class="font-accident-two-normal " style="color:grey; word-spacing:5px; font-family:Garamond; font-size:1.3em;">
+                            The state of the art commission management software has following features and capabilities:
+                            <ol class="font-accident-two-normal " style="list-style-type:circle; color:grey; word-spacing:5px; font-family:Garamond; font-size:1.3em;">
+                                <li>The commission processing system has be developed by using following technologies:</li>
+                                <ol style="list-style-type:disc">
+                                    <li>Object Oriented PERL 5</li>
+                                    <li>Mod PERL</li>
+                                    <li>JavaScript </li>
+                                    <li>jQuery </li>
+                                    <li>Ajax </li>
+                                    <li>JASON </li>
+                                </ol>
+                                <li>The system makes use of highly efficient, adaptable and resource friendly processing and calculation algorithms.</li>
+                                <li>The system has been developed by perform intensive data analysis, which included writing custom test benches to highlight common known errors and transformation rules within the data. Based on the analysis, a document with
+                                    business rules required to correct the errors and translate values as part of the hygiene process is created.</li>
+                                <li>High level of data integrity has been maintained by deploying multiple data cleansing and validation methods which ensure that the data remains in correct form and correct format</li>
+                                <li>Robust and high performance algorithms have been implemented to calculate splits and commissions for new aggregation models</li>
+                                <li>Highly customizable and reconfigurable system architecture that allows the company to integrate the system to their existing architecture and extend that integration through to suppliers and customers.</li>
+                                <li>The system provides full support reconfiguration according to business models and channel networks, including tiered remuneration structures. Ability to process commissions weekly, even daily.</li>
+                                <li>Fully automated transaction data reconciliation and payout processing.</li>
+                                <li>Full menu-driven, profile based and end-user security settings provide clear separation of duties, giving the administrator control, confidence and accountability.</li>
+                                <li>Ability to import and match received commission data; validate against a suite of data quality rules; manage and resolve exceptions; reconcile against bank accounts and manage suspense transactions. Generate standard ABA
+                                    file and pay recipients via banking software.</li>
+                                <li>Automated invoice generation, error free transmission and recipient payment.</li>
+                                <li>Full integration support with Business Intelligence, Customer Relationship Management and Data warehouse systems for informed and data driven decision making and customer insights</li>
+                                <li>Total data management and reconciliation including agent data, invoices and transaction data.</li>
+                                <li>Highly detailed report generation including agent commissions reports, RCTIs and commission executive summaries in PDF, WORD, EXCEL format.</li>
+                                <li>Online portal with integration into company website for the commission recipients to access commission information, download recipient created tax invoices and commission statements; view historical data and track channel
+                                    hierarchies.
+                                </li>
+                                <li>Ability to generate recipient created tax invoices and commission statements in MS Word/Excel and Adobe PDF or transmit via email or XML or post to online web portal.</li>
+                                <li>Full support for commission processing via bureau processing and additional administrative staff or a full outsource model.</li>
+                                <li>Full automation capability of transaction processing, commission holding and distribution via local banking software and automatic ABA file generation.</li>
+                                <br/>
+
+                                <a href="images/img1_1.1.png" class="gallery-item">
+                                    <img src="images\img1_1.1.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.2.png" class="gallery-item">
+                                    <img src="images\img1_1.2.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.3.png" class="gallery-item">
+                                    <img src="images\img1_1.3.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.4.png" class="gallery-item">
+                                    <img src="images\img1_1.4.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.5.png" class="gallery-item">
+                                    <img src="images\img1_1.5.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.6.png" class="gallery-item">
+                                    <img src="images\img1_1.6.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.7.png" class="gallery-item">
+                                    <img src="images\img1_1.7.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.8.png" class="gallery-item">
+                                    <img src="images\img1_1.8.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.9.png" class="gallery-item">
+                                    <img src="images\img1_1.9.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.10.png" class="gallery-item">
+                                    <img src="images\img1_1.10.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.11.png" class="gallery-item">
+                                    <img src="images\img1_1.11.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                                <br/>
+                                <a href="images/img1_1.12.png" class="gallery-item">
+                                    <img src="images\img1_1.12.png" class="img-responsive" alt="portfolio item">
+                                </a>
+                            </ol>
+                        </p>
+                        <br/>
+                        <hr>
+                        <div class="dividewhite4"></div>
+
+
+                        <div class="row">
+                            <div class="col-md-8">
+                                <h3 class="font-accident-two-light">Key System Functionality</h3>
+                                <div class="dividewhite2"></div>
+                                <ol class="portfolio-item-details" style="list-style-type:disc; color:grey; font-family:Garamond; font-size:1.20em;">
+                                    <li>Calculation Algorithms</li>
+                                    <li>Intensive Data Analysis</li>
+                                    <li>Mantain Data Integrity</li>
+                                    <li>Calculate splits and commissions</li>
+                                    <li>System provides full support reconfiguration </li>
+                                    <li>Fully automated transaction</li>
+                                    <li>Import and match received commission data</li>
+                                    <li>Automated invoice generation</li>
+                                    <li>Online portal with integration into company website</li>
+                                    <li>Generate recipient created tax invoices and commission statements in MS Word/Excel and Adobe PDF</li>
+                                </ol>
+
+                                <br/>
+                                <hr>
+                                <br/>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="col-md-4" style="display:block;">
+                                <h3 class="font-accident-two-light">Share</h3>
+                                <div class="dividewhite2"></div>
+                                <div class="share">
+                                    <ul class="list-inline social">
+                                        <li><a target="_blank" href="#" class="rst-icon-facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a target="_blank" href="#" class="rst-icon-twitter"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a target="_blank" href="#" class="rst-icon-google"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+                        <!-- /Post Content -->
+                    </div>
+                </div>
+
+                <div class="dividewhite8"></div>
+
+                <!-- Portfolio Block -->
+
+
+                <div class="dividewhite8"></div>
+
+            </section>
+            <!-- /Portfolio Block -->
+
+            </section>
+        </div>
+
+    </div>
+    <footer class="padding-50 dark ui-bg-color01" data-animation-origin="top" data-animation-duration="500" data-animation-delay="800" data-animation-distance="50px">
+        <div class="container-fluid nopadding">
+            <div class="row">
+
+                <div class="col-sm-3 cv-link">
+                    <h5 class="font-accident-two-bold uppercase">Download cv</h5>
+                    <div class="dividewhite1"></div>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>English</a>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>German</a>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>Spanish</a>
+                    <p class="inline-block">
+                        The CV is in .pdf format. Use the Adobe Reader to open it.
+                    </p>
+                    <div class="divider-dynamic"></div>
+                </div>
+
+                <div class="col-sm-3">
+                    <h5 class="font-accident-two-bold uppercase">Follow me</h5>
+                    <div class="follow">
+                        <ul class="list-inline social">
+                            <li><a target="_blank" href="#" class="rst-icon-facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-pinterest"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-instagram"><i class="fa fa-instagram"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-youtube"><i class="fa fa-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="divider-dynamic"></div>
+                </div>
+            </div>
+            <div class="dividewhite1"></div>
+            <div class="row">
+                <div class="col-md-12 copyrights">
+                    <p>© 2016 Samuel Anderson.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!-- Back to Top -->
+    <div id="back-top"></div>
+    <!-- /Back to Top -->
+
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
+
+    <script src="assets/vendor/mfp/js/jquery.magnific-popup.min.js?v=1.1.0" type="text/javascript"></script>
+    <script src="assets/vendor/progressbar/progressbar.min.js?v=1.0.1" type="text/javascript"></script>
+    <script src="assets/vendor/anicounter/jquery.counterup.min.js?v=1.0" type="text/javascript"></script>
+    <script src="assets/vendor/pjax/jquery.pjax.min.js?v=1.9.6" type="text/javascript"></script>
+    <script src="assets/vendor/owl-carousel/owl.carousel.min.js?v=2.1.0" type="text/javascript"></script>
+    <script src="assets/vendor/headlines/headlines.min.js?v=1.0" type="text/javascript"></script>
+
+    <!-- Custom scripts -->
+    <script src="assets/custom/2.2.0/js/animation.js" type="text/javascript"></script>
+    <script src="assets/custom/2.2.0/js/custom.js" type="text/javascript"></script>
+
+</body>
+
+</html>

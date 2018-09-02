@@ -1,0 +1,1238 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[if IE 9]>
+<html class="ie9" lang="en">    <![endif]-->
+<!--[if IE 8]>
+<html class="ie8" lang="en">    <![endif]-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <title>Qaisar Khan</title>| Portfolio</title>
+
+    <meta name="description" content="Gridus vCard HTML Template is the professional responsive personal website template, based on the latest Bootstrap 3">
+    <meta name="keywords" content="html5, template, website, responsive, bootstrap">
+    <meta name="author" content="neuethemes">
+
+    <!-- Preloader -->
+    <link href="assets/custom/2.2.0/css/preloader.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <!-- CSS -->
+    <link rel='stylesheet' type='text/css' href='styles.css' />
+    <link rel="stylesheet" type="text/css" href="css/style10.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" media="screen">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/flaticons/flaticon.min.css?v=29022016" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/hover/css/hover-min.css?v=2.0.2" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/mfp/css/magnific-popup.min.css?v=1.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/vendor/owl-carousel/assets/owl.carousel.min.css?v=2.1.0" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <!-- Custom styles -->
+    <link href="assets/custom/2.2.0/css/style.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/custom/2.2.0/css/layouts/samuel.css" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+    <link href="assets/custom/2.2.0/css/colors/default.css" id="color-styles" property='stylesheet' rel="stylesheet" type="text/css" media="screen" />
+
+    <style type="text/css">
+        .opa {
+            opacity: 0;
+        }
+        
+        .opa2:hover {
+            opacity: 0;
+        }
+        
+        .opa2:hover .opa {
+            opacity1;
+        }
+    </style>
+
+</head>
+
+<body id="samuel" class="boxed">
+
+    <!--Pre-Loader-->
+    <!-- <div id="preloader"></div> -->
+
+    <header>
+        <section id="top-navigation" class="container-fluid nopadding">
+            <div class="row nopadding ident ui-bg-color01">
+                <!-- Photo -->
+                <a href="index.html">
+                    <div class="col-md-4 vc-photo photo-01">&nbsp;</div>
+                </a>
+                <!-- /Photo -->
+                <div class="col-md-8 vc-name nopadding">
+                    <!-- Name-Position -->
+                    <div class="row nopadding name">
+                        <div class="col-md-10 name-title">
+                            <h1 class="font-accident-two-extralight">Qaisar khan</h1>
+                        </div>
+                        <div class="col-md-2 nopadding name-pdf">
+                            <a href="#" class="hvr-sweep-to-right"><i class="flaticon-download149" title="Download CV.pdf"></i></a>
+                        </div>
+                    </div>
+                    <div class="row nopadding position">
+                        <div class="col-md-10 position-title">
+
+                            <section class="cd-intro">
+                                <h2 class="cd-headline clip is-full-width font-accident-two-light">
+                                    <span>The experienced </span>
+                                    <span class="cd-words-wrapper">
+                           <b class="is-visible">UI/UX Designer</b>
+                           <b>Web Designer</b>
+                           <b>Photographer</b>
+                        </span>
+                                </h2>
+                            </section>
+
+                        </div>
+                        <div class="col-md-2 nopadding pdf">
+                            <a href="#" class="hvr-sweep-to-right"><i class="flaticon-behance7" title="My Behance Portfolio"></i></a>
+                        </div>
+                    </div>
+                    <!-- /Name-Position -->
+
+                    <!-- Main Navigation -->
+                    <ul id="nav" class="row nopadding cd-side-navigation">
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color01" data-animation-duration="1000" data-animation-delay="100">
+                            <a href="index.html" class="hvr-sweep-to-bottom"><i class="flaticon-insignia"></i><span>home</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color02" data-animation-duration="1000" data-animation-delay="300">
+                            <a href="resume.html" class="hvr-sweep-to-bottom"><i class="flaticon-graduation61"></i><span>resume</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color03" data-animation-duration="1000" data-animation-delay="500">
+                            <a href="portfolio-4-col.html" class="hvr-sweep-to-bottom"><i class="flaticon-book-bag2"></i><span>portfolio</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color04" data-animation-duration="1000" data-animation-delay="700">
+                            <a href="contacts.html" class="hvr-sweep-to-bottom"><i class="flaticon-placeholders4"></i><span>contacts</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color06" data-animation-duration="1000" data-animation-delay="1100">
+                            <a href="education.html" class="hvr-sweep-to-bottom"><i class="flaticon-pens15"></i><span>education</span></a>
+                        </li>
+                        <li class="col-xs-4 col-sm-2 nopadding menuitem ui-menu-color05" data-animation-duration="1000" data-animation-delay="900">
+                            <a href="feedback.html" class="hvr-sweep-to-bottom"><i class="flaticon-earphones18"></i><span>enquiry</span></a>
+                        </li>
+
+                    </ul>
+                    <!-- /Main Navigation -->
+
+                </div>
+            </div>
+        </section>
+    </header>
+
+    <!-- Container -->
+    <div class="content-wrap">
+
+        <div id="portfolio" class="inner-content">
+
+            <section id="page-title" class="inner-section ui-menu-color03">
+                <div class="container-fluid nopadding">
+                    <h2 class="font-accident-two-bold color01" data-animation-origin="right" data-animation-duration="400" data-animation-delay="100" data-animation-distance="50px">Portfolio</h2>
+                    <h4 class="font-accident-two-light color01 uppercase subtitle" data-animation-origin="right" data-animation-duration="400" data-animation-delay="200" data-animation-distance="50px">Made for Creative Professionals</h4>
+                    <p class="small color01" data-animation-origin="right" data-animation-duration="400" data-animation-delay="300" data-animation-distance="50px">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id metus purus. Ut vulputate, est vel tincidunt mattis, orci neque iaculis lectus, et interdum quam felis vel tortor. Fusce ultrices dui quis nunc dignissim faucibus. Ut ac odio quis nibh
+                        viverra fringilla ac id nisi. Suspendisse tincidunt augue quis ligula cursus, non efficitur ligula faucibus. Mauris id neque maximus, tincidunt metus et, sodales nulla.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Counts Block -->
+            <section id="counts" class="light inner-section bg-color02" data-section="counter">
+                <div class="container-fluid nopadding">
+                    <div class="count-container row">
+                        <div class="col-lg-4 col-sm-6 col-xs-12 count">
+                            <div data-animation-origin="top" data-animation-duration="300" data-animation-delay="200" data-animation-distance="35px">
+                                <div class="count-icon">
+                                    <i class="flaticon-photo246"></i>
+                                </div>
+                                <span class=".integers digit font-accident-two-normal" data-counter="24">0</span>
+
+                                <div class="count-text font-accident-two-bold">Softwares</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 col-xs-12 count">
+                            <div data-animation-origin="top" data-animation-duration="300" data-animation-delay="400" data-animation-distance="35px">
+                                <div class="count-icon">
+                                    <i class="flaticon-book-bag2"></i>
+                                </div>
+                                <span class=".integers digit font-accident-two-normal" data-counter="22">0</span>
+
+                                <div class="count-text font-accident-two-bold">Websites</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 col-xs-12 count">
+                            <div data-animation-origin="top" data-animation-duration="300" data-animation-delay="800" data-animation-distance="35px">
+                                <div class="count-icon">
+                                    <i class="flaticon-shopping-carts6"></i>
+                                </div>
+                                <span class=".integers digit font-accident-two-normal" data-counter="15">0</span>
+
+                                <div class="count-text font-accident-two-bold">Desktop Applications</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="dividewhite2"></div>
+                </div>
+            </section>
+            <!-- /Counts Block -->
+
+            <!-- Portfolio Block -->
+            <section id="portfolio-block" class="inner-section" data-section="portfolio">
+
+                <div class="dividewhite6"></div>
+
+                <div id="isotope-filters" class="port-filter port-filter-light text-center" data-animation-origin="top" data-animation-duration="500" data-animation-delay="200" data-animation-distance="25px">
+                    <ul>
+                        <li><a href="#cat1" data-filter="*">All</a></li>
+                        <li><a href="#cat2" data-filter=".web">Business Application Projects</a></li>
+                        <li><a href="#cat4" data-filter=".seo">Research Projects</a></li>
+                        <li><a href="#cat3" data-filter=".marketing">Application Development Projects</a></li>
+                    </ul>
+                </div>
+
+                <div class="dividewhite6"></div>
+
+                <div class="row masonry-row">
+
+                    <div class="grid container-fluid text-center">
+
+                        <div id="posts" class="row popup-container">
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
+                                        <div class="popup-call">
+                                            <a href="images/img1_1.1.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Commission Processing System</h3>
+                                                <p> Accounts web portal</p>
+                                            </div>
+                                            <a href="portfolio-item-01.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
+                                        <div class="popup-call">
+                                            <a href="images/img2_1.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Product/Market Segmentation Report</h3>
+                                                <p>Product Development Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-02.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item grid-sizer web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="top" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images/img3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" class="opa" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description" class="opa2">
+                                                <h3>Commission Records Fuzzy Matching </h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-03.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img4.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Serviceability<span> Calculators</span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-04.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.1.png" class="popup-youtube"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img5_5.1" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Income Protection Insurance <span> Claim Management System</span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.1_2.png" class="popup-vimeo"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Workflow Management <span>System</span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.1.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.4.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Payment Management System</h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.4.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.5.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Triangulation / Net Loss Ratio Analysis / Reporting System </span>
+                                                </h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.5.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Batch Payments <span>Processing System </span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Policy Management and Invoicing Solution</h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.3.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.8.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>AMIST Income Protection <span>Calculator </span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.8.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="400" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.9.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Income Protection Insurance Claim Management <span>Web Solution</span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.9.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item marketing col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.7.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Letters for the <span>Claimant </span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.7.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="left" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img5_5.6.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Claims Payment <span>Processing </span></h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-05_5.6.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="600" data-animation-delay="400" data-animation-distance="100px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive'" alt="img11" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Energex - Electricity Meter Read Data Conversion and Load </span>
+                                                </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Embedded Citiation Mapping and Data Enhancement For AUSTLII</h3>
+                                                <p>Application Development Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-06.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>IBM Siebel Database - Title Fuzzy Match Algorithm</h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.3.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.4.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Corporate Express - SAP Data Migration </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.4.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.5.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3> Nissan - CDI Solution for a Car distribution Company </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.5.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.6.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Chamber of Commerce, Western Australia - CDI Marketing Solution</h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.6.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.7.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Allianz Insurance - Application / System Development </h3>
+                                                <p>Business Application Projects<small>(QM Technologies)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.7.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.8.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>AUSTLII – Web Contribution Form </h3>
+                                                <p>Business Application Projects<small>( AUSTLII)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.8.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.9.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Acxiom Data Analysis - Perl Application to Remove Duplicate Records</h3>
+                                                <p>Application Development Projects<small>( Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.9.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.10.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Acxiom Data Analysis - Data Auditing Tool</h3>
+                                                <p>Application Development Projects<small>( Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.10.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.11.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Lincohn Electric Singapore - Advance Shipment Notification Application</h3>
+                                                <p>Business Application Projects<small>(DB Schenker Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.11.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.12.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>AUSTLII - Web Spiders for various Court’s Sites </h3>
+                                                <p>Application Development Projects<small>(AUSTLII)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.12.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.13.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>AMEX - B2B Solution for the Bank </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.13.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item grid-sizer web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.14.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>New Zealand Allianz Insurance - Application / System Development</h3>
+                                                <p>Application Development Projects<small>(QM Technologies)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.14.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.15.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Energex - Electricity Meter Substation Data Conversion and Load </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.15.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.16.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>American Security Alarm Systems Company</h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.16.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.17.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Australian Property Management - Directory Listing Match using DPID </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.17.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.18.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Energex - Electricity Meter Peel-off Interval Data Conversion </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.18.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.19.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>AGL - SAP Data Migration</h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.19.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.20.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>FTP Automation and PGP ENCRYPTION </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.20.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img6_6.21.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Energex - Electricity Meter Cool Change Data Conversion </h3>
+                                                <p>Application Development Projects<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-06.21.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img7.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>UNIX Shell Scripting </h3>
+                                                <p>Allianz Insurance - Development of an Automated Regression Testing System (Application Development Projects)<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-07.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img8.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Web Development in PHP</h3>
+                                                <p>Allianz Insurance - Online Task Allocation System (Business Application Projects)<small>(QM Technologies)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-08.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img8.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Allianz Insurance - Online Stock Management System</h3>
+                                                <p>Business Application Projects<small>(QM Technologies)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-08.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img9.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Web Development in ASP.NET / C#</h3>
+                                                <p>Acxiom - Real Time Log Monitoring System (Business Application Projects)<small>(Acxiom Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-09.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img9.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Accounting Software for Taxi Drivers</h3>
+                                                <p>Business Application Projects</p>
+                                            </div>
+                                            <a href="portfolio-item-09.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img9.3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>DB Schenker - Purchase Order Management System </h3>
+                                                <p>Business Application Projects<small>(DB Schenker Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-09.3.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Application / Web development in JAVA</h3>
+                                                <p>Channel 7 - Automated Summary Report System (Application Development Projects)<small>(System 5 Pty Ltd)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Enterprise Marketing - Winestay Online Holiday Reservation</h3>
+                                                <p>Business Application Projects<small>(System 5 Pty Ltd)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>East Away Air Conditioner Estimator System </h3>
+                                                <p>Business Application Projects<small>(System 5 Pty Ltd)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.3.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.4.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Quote and Print Internet Interface System</h3>
+                                                <p>Business Application Projects<small>(System 5 Pty Ltd)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.4.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.5.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>ATR Australia - Data Conversion System</h3>
+                                                <p>Application Development Projects<small>(System 5 Pty Ltd)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.5.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img10.6.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>DB Schenker - Dynamic PDF Generation for Sea Import Administration </h3>
+                                                <p>Business Application Projects<small>(DB Schenker Australia)</small></p>
+                                            </div>
+                                            <a href="portfolio-item-10.6.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item seo col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img11.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Application Development in C / C++</h3>
+                                                <p>System 5 - Innovative Design for Email Backup System (Application Development Projects)<small>(System 5 Pty Ltd )</small></p>
+                                            </div>
+                                            <a href="portfolio-item-11.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img11.2.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Dymocks - Data Conversion System </h3>
+                                                <p>Application Development Projects<small>(System 5 Pty Ltd )</small></p>
+                                            </div>
+                                            <a href="portfolio-item-11.2.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item seo col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img11.3.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Image Processing Implementation for a chocolate Factory</h3>
+                                                <p>Application Development Projects<small>(Computer system Design)			       University of Technology, Sydney</small></p>
+                                            </div>
+                                            <a href="portfolio-item-11.3.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                            <div class="grid-item web col-xs-6 col-sm-4 col-md-3">
+                                <div class="item-wrap">
+                                    <figure class="effect-goliath ui-menu-color02" data-animation-origin="right" data-animation-duration="400" data-animation-delay="500" data-animation-distance="50px">
+                                        <div class="popup-call">
+                                            <a href="images\img11.4.png" class="gallery-item"><i class="flaticon-tool"></i></a>
+                                        </div>
+                                        <img src="images/sample.jpg" style="height:210px;" class="img-responsive" alt="img03" />
+                                        <figcaption>
+                                            <div class="fig-description">
+                                                <h3>Unix Kernel Programing and configuration </h3>
+                                                <p>System Development Projects<small>University of Technology, Sydney</small></p>
+                                            </div>
+                                            <a href="portfolio-item-11.4.html"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+                <div class="dividewhite8"></div>
+
+            </section>
+            <!-- /Portfolio Block -->
+
+        </div>
+
+    </div>
+
+    <footer class="padding-50 dark ui-bg-color01" data-animation-origin="top" data-animation-duration="500" data-animation-delay="800" data-animation-distance="50px">
+        <div class="container-fluid nopadding">
+            <div class="row">
+
+                <div class="col-sm-3 cv-link">
+                    <h5 class="font-accident-two-bold uppercase">Download cv</h5>
+                    <div class="dividewhite1"></div>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>English</a>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>German</a>
+                    <a href="#"><i class="fa fa-long-arrow-down" aria-hidden="true"></i>Spanish</a>
+                    <p class="inline-block">
+                        The CV is in .pdf format. Use the Adobe Reader to open it.
+                    </p>
+                    <div class="divider-dynamic"></div>
+                </div>
+
+                <div class="col-sm-3">
+                    <h5 class="font-accident-two-bold uppercase">Follow me</h5>
+                    <div class="follow">
+                        <ul class="list-inline social">
+                            <li><a target="_blank" href="#" class="rst-icon-facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-twitter"><i class="fa fa-twitter"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-pinterest"><i class="fa fa-pinterest"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-instagram"><i class="fa fa-instagram"></i></a></li>
+                            <li><a target="_blank" href="#" class="rst-icon-youtube"><i class="fa fa-youtube"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="divider-dynamic"></div>
+                </div>
+            </div>
+            <div class="dividewhite1"></div>
+            <div class="row">
+                <div class="col-md-12 copyrights">
+                    <p>© 2016 Samuel Anderson.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top -->
+    <div id="back-top"></div>
+    <!-- /Back to Top -->
+
+    <!-- JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal@3.3.2/dist/scrollreveal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
+
+    <script src="assets/vendor/mfp/js/jquery.magnific-popup.min.js?v=1.1.0" type="text/javascript"></script>
+    <script src="assets/vendor/progressbar/progressbar.min.js?v=1.0.1" type="text/javascript"></script>
+    <script src="assets/vendor/anicounter/jquery.counterup.min.js?v=1.0" type="text/javascript"></script>
+    <script src="assets/vendor/pjax/jquery.pjax.min.js?v=1.9.6" type="text/javascript"></script>
+    <script src="assets/vendor/owl-carousel/owl.carousel.min.js?v=2.1.0" type="text/javascript"></script>
+    <script src="assets/vendor/headlines/headlines.min.js?v=1.0" type="text/javascript"></script>
+
+    <!-- Custom scripts -->
+    <script src="assets/custom/2.2.0/js/animation.js" type="text/javascript"></script>
+    <script src="assets/custom/2.2.0/js/custom.js" type="text/javascript"></script>
+
+</body>
+
+</html>
